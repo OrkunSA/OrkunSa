@@ -6,7 +6,7 @@
 - 📫 How to reach me: <a href="mailto:c.orkun.s@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/orkun-saglam/">LinkedIn</a>
 
 ### Portfolio
-- 🔖 **Gamers Vault** - [Demo](https://www.youtube.com/watch?v=9jX6Yq4Uht8) | [Frontend Repository](https://github.com/OrkunSA/gamers-vault-frontend) | [Backend Repository](https://github.com/OrkunSA/gamers-vault-backend)
+- 🔖 **Gamers Vault** - [Demo](https://www.youtube.com/watch?v=n4-kXK4vx3k) | [Frontend Repository](https://github.com/OrkunSA/gamers-vault-frontend) | [Backend Repository](https://github.com/OrkunSA/gamers-vault-backend)
   - *A gaming website where users can browse through 500,000+ games and perform CRUD actions.*
   
   - *Integrated global state by using Redux for smooth page updates and better state management*
