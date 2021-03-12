@@ -16,7 +16,7 @@
   - *Incorporated full authentication using session cookies and Bcrypt*
 
 
-- 🔖 **Movie Box** - [Demo](https://youtu.be/uTYCEnw-izk) | [Repository](https://github.com/OrkunSA/movie_box)
+- 🔖 **Movie Box** - [Demo](https://www.youtube.com/watch?v=9jX6Yq4Uht8) | [Repository](https://github.com/OrkunSA/movie_box)
   - *A Rails app for keeping track of favorite movies and creating lists to manage and organize those movies.*
   
   - *Designed and styled site using Bootstrap 4, along with customized CSS styles*
