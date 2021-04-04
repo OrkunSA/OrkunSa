@@ -24,7 +24,7 @@
   - *Implemented full CRUD functionality for a user to be able to create, edit, and destroy their movies*
   - *Incorporated user authentication by using bcrypt gems and persisting user sessions using cookies*
   
-- 🔖 **Play Hangman: Animals Game** - [Demo](https://www.youtube.com/watch?v=O_Qz2m-mAYM) | [Repository](https://github.com/OrkunSA/library)
+- 🔖 **Nice Reads* - [Demo](https://www.youtube.com/watch?v=O_Qz2m-mAYM) | [Repository](https://github.com/OrkunSA/library)
   - *A vanilla JavaScript app with Rails backend API for users to keep track of favorite books and perform CRUD actions on their book collection.*
   
   - *Utilized SQLite database and developed a RESTful Rails API backend with endpoints for books and categories.
